@@ -14,6 +14,11 @@ Player performance inconsistency can significantly impact **team strategy, game 
 
 Ultimately, this work enhances understanding of **player consistency, upside potential, and risk profiles**.
 
+### Dependencies
+
+  
+The libraries needed are matplotlib, numpy, pandas, scipy, scikit-learn, seaborn, plotly, yellowbrick, and nfl-data-py.
+
 ---
 
 ### 🧠 Methodology
@@ -59,5 +64,16 @@ This framework can be extended to:
 * Fantasy football draft and lineup optimization
 * Sports betting and predictive performance modeling
 * Risk-adjusted player evaluation metrics
+
+### Installing
+
+You can download my program through the "cmse890finalproject1.ipynb" file attached to the repository.
+
+## Authors
+
+Contributors names and contact info
+
+* Kendall Andrews - Author
+* NFL Python Package - Pypi - nfl-data-py 
 
 ---
