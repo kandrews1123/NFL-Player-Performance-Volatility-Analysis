@@ -19,7 +19,6 @@ Ultimately, this work enhances understanding of **player consistency, upside pot
   
 The libraries needed are matplotlib, numpy, pandas, scipy, scikit-learn, seaborn, plotly, yellowbrick, and nfl-data-py.
 
----
 
 ### 🧠 Methodology
 
